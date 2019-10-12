@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("inserisci qualcosa");
+            Console.WriteLine("inserisci una parola");
             string s = Console.ReadLine();
             foreach (char c in s)
             {
